@@ -1,10 +1,14 @@
 {
-  "name": "twitter-bot",
+  "name": "evan-bot",
   "version": "1.0.0",
   "description": "favorites tweets containing the string 'evan'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/evanwinter/evan-bot.git"
   },
   "author": "Evan Winter",
   "license": "ISC"
