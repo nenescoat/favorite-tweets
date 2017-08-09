@@ -3,8 +3,8 @@ var config = require('./config.js');
 var T = new Twitter(config);
 
 var params = {
-	q: 'evan`',
-	count: 10,
+	q: 'css grid',
+	count: 20,
 	result_type: 'recent',
 	lang: 'en'
 }
