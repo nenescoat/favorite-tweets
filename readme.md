@@ -21,4 +21,6 @@ module.exports = {
 }
 ```
 
-run `npm i`
+`npm i`
+
+`node app.js`
