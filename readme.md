@@ -12,13 +12,13 @@ very simple twitter bot that favorites the ten most recent tweets containing a s
 
 put the consumer key + secret and the access token + secret in a file called `config.js`, like so:
 
-``
+```
 module.exports = {
 	consumer_key: 'XXX',
 	consumer_secret: 'XXX',
 	access_token_key: 'XXX',
 	access_token_secret: 'XXX'
 }
-``
+```
 
 run `npm i`
